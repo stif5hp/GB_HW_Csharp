@@ -16,6 +16,5 @@ namespace lesson_1_1
             string name = Console.ReadLine();
             Console.WriteLine($"Привет, {name}, сегодня {DateTime.Now}");
         }
-        //dsad
     }
 }
